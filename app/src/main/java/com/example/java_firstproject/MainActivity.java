@@ -20,7 +20,7 @@ TextView txt1 , txt2;
         txt1 = findViewById(R.id.txt1);
         txt2 = findViewById(R.id.txt2);
 
-        txt2.setText("changes kar diyaaaa");
+        txt2.setText("changes kar diyaaaa  han dobara kar diyaaa");
 
     }
 }
